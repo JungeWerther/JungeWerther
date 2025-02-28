@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+thanks for checking out my page! <br>
+![test](https://example.com/test.png)
 <!--
 **JungeWerther/JungeWerther** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
