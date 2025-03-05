@@ -1,9 +1,8 @@
-## 👋 Hello.  
+## Do colourless green ideas truly sleep furiously?
+Some argue that not all language is recursive.
 
 ![IMG_2067](https://github.com/user-attachments/assets/b0a1d45d-7900-4e73-9ad9-b1d348e0c95d) 
-__I could use a hand!__
-
-Are you interested in the _Curry-Howard Correspondence_? Maybe we're on the same wave-length.
+_Just a heads up!_
 
 ---
 
@@ -15,6 +14,8 @@ Here are some key ideas that make sense to me:
 - Pursuing many deep interests leads to a rich outlook on life
 - Talk to people
 - Acknowledge what you want
+- Do you like the **Curry-Howard Correspondence**? Maybe we're on the same wave-length.
 
 
 ### If this resonates with you, let's connect!
+You can DM me on LinkedIn.
