@@ -1,4 +1,4 @@
-## 👋 Hello, programmer.  
+## 👋 Hello.  
 
 ![IMG_2067](https://github.com/user-attachments/assets/b0a1d45d-7900-4e73-9ad9-b1d348e0c95d) 
 __I could use a hand!__
@@ -17,4 +17,4 @@ Here are some key ideas that make sense to me:
 - Acknowledge what you want
 
 
-### If this resonates with you, reach out! I want to work with you.
+### If this resonates with you, let's connect!
